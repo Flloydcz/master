@@ -1,0 +1,45 @@
+Error úkoly jsem dělal do error.py
+
+
+
+Python 3.7.5
+
+. Jak se jmenuje druh chyby, která nastane, když…
+
+• Dáš uvozovky jen na jednu stranu řetězce? — SyntaxError
+
+• Zkusíš odečíst číslo od řetězce? — TypeError: unsupported operand type(s) for -: 'str' and 'int'
+
+• Dělíš nulou? — ZeroDivisionError: division by zero
+
+• Použiješ proměnnou, která neexistuje? — NameError: name 'promenna' is not defined
+
+• Stiskneš Ctrl+C, když se program ptá na vstup (pomocí input)? — KeyboardInterrupt
+
+• Odsadíš příkaz bez předchozího if:? — IndentationError: unexpected indent
+
+• Po if: odsadíš jeden příkaz o čtyři mezery a druhý jen o dvě? — IndentationError: unindent does not match any outer indentation level
+
+• Neuzavřeš závorku? – SyntaxError: invalid syntax
+
+• Zkusíš použít vykřičník (!) jako operátor? — SyntaxError: invalid syntax
+
+• Napíšeš v příkazu print(1, 2, 3) čárku navíc? — SyntaxError: invalid syntax
+
+
+2 - name error - není definovaná proměnná
+3 - tipnul bych error, když jsem to zkusil tak je to type error, dělení stringu stringem není podporovaná funkce
+4 - ! vyhodí syntax error
+5 . nefunguji - True, $i, 34, 3e4, readme.txt a while
+    True nemůže mít jinou hodnotu než True
+    $i  - $myslím odkazuje na shell
+    34 je hodnota sama o sobě, nelze ji přiřadit jinou hodnotu
+    3e4 si asi překládá python jako 3 na čtvrtou? tím pádem stejný problém jako u 34
+    readme.txt to vzal prostě jako readme a vypsal že takovou hodnotu nemá nadefinovanou.. takže to co je za tečkou ignoruje?
+    while je funkce a tak ji nelze použít jako proměnnou
+
+
+    
+10. +-*/**// = == <> <= >= and or 
+
+11

@@ -9,3 +9,4 @@ print("Ahoj" + " " + "PyLadies!")
 print("Součet čísel 3 a 8 je", 3 + 8)
 print('Máma má mísu')
 print("V míse je maso.")
+
